@@ -20,7 +20,15 @@ git remote add origin https://github.com/zkoladzl/week-summary.git
 git push -u origin master
 ```
 
+## md文件编辑相关资料
 
+### 软件
+
+> https://www.typora.io/ 
+
+### mardown语法
+
+> http://xianbai.me/learn-md/article/syntax/blockquotes.html 
 
 ## 第十四周任务
 
