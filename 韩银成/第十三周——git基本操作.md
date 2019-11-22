@@ -14,6 +14,8 @@ git init
 git add . 
 将项目提交到本地仓库
 git commit -m "提交信息"
+添加远程仓库
+git remote add origin https://github.com/zkoladzl/week-summary.git
 将项目提交到远程仓库
 git push -u origin master
 ```
