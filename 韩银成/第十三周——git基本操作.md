@@ -3,11 +3,11 @@
 ## 通过git提交代码到github基本命令
 
 ```shell
-设置提交代码时的用户名
+设置提交代码时的邮箱，用户名
 git config --global user.email "your email"
 git config --global user.name "your name"
-设置提交代码时的邮箱
-git
+拉取远程git项目
+git clone https://github.com/zkoladzl/week-summary.git
 将一个文件初始化为git项目
 git init
 将项目下的所有文件添加进项目
